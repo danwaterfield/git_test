@@ -1,0 +1,3 @@
+This is Dan Waterfield's git project from the Odin Project. 
+He is proficient with github, but needed practice with git CLI.
+Please hire him :(
